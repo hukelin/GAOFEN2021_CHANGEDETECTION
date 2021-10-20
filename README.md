@@ -1,7 +1,7 @@
 # GAOFEN2021_CHANGEDETECTION
 第五届中科星图杯高分辨率可见光图像中建筑物普查与变化检测
 ![image](https://user-images.githubusercontent.com/38885398/138111633-15b80611-1428-4cae-a3f1-91711967381e.png)
-
+http://gaofen-challenge.com/indexpage
 
 * 队伍名：GIRSALab
 
