@@ -1,0 +1,7 @@
+torchvision
+numpy
+loguru
+tqdm
+Pillow
+PyYAML
+einops
